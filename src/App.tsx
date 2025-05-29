@@ -48,16 +48,6 @@ export default function Page() {
             <ArrowRight className="ml-2 h-4 w-4" />
           </button>
 
-          {/* Contact Info */}
-          <p className="text-center text-sm text-gray-500">
-            Si tienes alguna pregunta, por favor contáctanos en{" "}
-            <a
-              href="mailto:info@ejemplo.com"
-              className="text-blue-600 hover:underline"
-            >
-              info@ejemplo.com
-            </a>
-          </p>
         </div>
       </div>
     </div>
